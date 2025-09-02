@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surendra Reddy Erusu
-- 👀 I’m a Software Developer - iOS Mobile Application Developer
+- 👀 I’m a Software Developer -  Full-Stack and iOS Mobile Application Developer
 - 🌱 I’m currently learning - Computer Engineering and Application Development
 - 📫 Reach me at surendrareddy13042000@gmail.com
 
