@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey! I'm Surendra Erusu 👋</h1>
-  <h3>Full-Stack Developer 💻 | iOS Mobile App Developer 📱</h3>
+  <h3>Full-Stack Developer 💻 </h3>
 </div>
 
 <div align="center">
