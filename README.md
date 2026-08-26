@@ -64,19 +64,6 @@
 | **[System Design — LLD](https://github.com/SurendraErusu/SystemDesign_LowLevelDesign_LLD)** | Low-level design problems solved in Java: SOLID, Factory, Builder, Singleton, Adapter, and more | Java · OOP · Design Patterns |
 | **[LeetCode & DSA](https://github.com/SurendraErusu/LeetCode_DSA)** | Ongoing solutions covering core data structures, algorithms, and interview problem-solving patterns | C++ · Python |
 
-## Problem Solving
-
-<div align="center">
-
-<a href="https://leetcode.com/u/surendrareddy722/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fsurendrareddy722%2Fsolved&query=%24.solvedProblem&label=Solved&color=FFA116&style=flat-square&logo=leetcode&logoColor=black" alt="Solved" /></a>
-<a href="https://leetcode.com/u/surendrareddy722/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fsurendrareddy722%2Fsolved&query=%24.easySolved&label=Easy&color=00B8A3&style=flat-square&logo=leetcode&logoColor=black" alt="Easy" /></a>
-<a href="https://leetcode.com/u/surendrareddy722/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fsurendrareddy722%2Fsolved&query=%24.mediumSolved&label=Medium&color=FFB800&style=flat-square&logo=leetcode&logoColor=black" alt="Medium" /></a>
-<a href="https://leetcode.com/u/surendrareddy722/"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Falfa-leetcode-api.onrender.com%2Fsurendrareddy722%2Fsolved&query=%24.hardSolved&label=Hard&color=FF375F&style=flat-square&logo=leetcode&logoColor=black" alt="Hard" /></a>
-
-<sub>Live from LeetCode — regenerated on every page load.</sub>
-
-</div>
-
 ## Education
 
 | Institution | Degree | Years |
